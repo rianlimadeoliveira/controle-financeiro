@@ -1,0 +1,11 @@
+venv/
+# Ignora a pasta do ambiente virtual (cada pessoa cria a sua).
+
+__pycache__/
+# Ignora arquivos temporários que o Python cria sozinho.
+
+*.pyc
+# Ignora arquivos compilados do Python (também temporários).
+
+.env
+# Ignora o arquivo que vai guardar senhas, como a do MySQL.
